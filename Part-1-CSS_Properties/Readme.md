@@ -1,4 +1,4 @@
-<h2>Today we will explore two properties in CSS</h2>
+<h2> We will explore two properties in CSS</h2>
 <h4>
 <ul>
 <li>Margin</li>
