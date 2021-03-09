@@ -33,7 +33,10 @@ Responsive Design adapts itself to any user device. Responsive design ensures th
 
 <p align="center" id="Resp"><b><i>Topic : Responsive Web Design (RWD) </i><b></p>
   
+
 ***
+
+
 
 ✔️ Introduction & History - 
 
@@ -42,7 +45,9 @@ Responsive Design adapts itself to any user device. Responsive design ensures th
 - Demand for RWD is increasing because of an increase in mobile users.
 - CSS plays Main Role in Responsive web design.
 
+
 ***
+
 
 ✔️ Concepts - 
 1. CSS Grids -
@@ -61,7 +66,10 @@ Responsive Design adapts itself to any user device. Responsive design ensures th
    - It uses `@media` rule to Apply Certain CSS properties only if a Given condition is true.
    - <i> More about Media Query.</i> <a href="Rushikesh_CSS_MediaQ.md">👉</a>
 
+
 ***
+
+
 ✔️ Implement RWD  -
 
 Quick Look on Implementing RWD- 
@@ -80,11 +88,13 @@ Quick Look on Implementing RWD-
    - `max-width` property is used.  
 
 🖊️ For Images - 
+
 ```html
 
 <img src="img_Name.jpg" style="max-width:100%;height:auto;">
 
 ```
+
 - Font size set with `vw` unit- viewport width. 
 - Viewport is the browser window size. 1vw = 1% of viewport width.
 
