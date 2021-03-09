@@ -101,12 +101,12 @@ Quick Look on Implementing RWD-
 <img align="right" height="150px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
-<p aligh="left">
+
   
-- Additional Information -
-  - 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
-  - 🔗 [ CSS Box-Model.](https://www.w3.org/TR/CSS22/box.html)
-  - 🔗 [CSS Media Queries.](https://www.w3.org/TR/css3-mediaqueries/)
-   - 🔗 MDN Web Docs- [Media queries.](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* Additional Information -
+  * 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
+  * 🔗 [ CSS Box-Model.](https://www.w3.org/TR/CSS22/box.html)
+  * 🔗 [CSS Media Queries.](https://www.w3.org/TR/css3-mediaqueries/)
+  * 🔗 MDN Web Docs- [Media queries.](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 ***
