@@ -31,7 +31,7 @@ Responsive Design adapts itself to any user device. Responsive design ensures th
 
 ***
 
-<P align="center" id="Resp"><b><i>Topic : Responsive Web Design (RWD) </i><b></p>
+<p align="center" id="Resp"><b><i>Topic : Responsive Web Design (RWD) </i><b></p>
   
 ***
 
