@@ -18,14 +18,14 @@ Responsive Design adapts itself to any user device. Responsive design ensures th
 
 ***
 
-
+<img align="right" width="250px" height="200px" alt="GIF" src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" >
 
 <p align ="left">
 
-- Responsive Web Design (RWD) -
-    - Introduction & History.   
-    - Concepts.
-    - Implement RWD.
+* Responsive Web Design (RWD) -
+    * Introduction & History.   
+    * Concepts.
+    * Implement RWD.
     
 </p>
 
