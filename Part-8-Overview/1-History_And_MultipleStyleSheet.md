@@ -306,10 +306,10 @@ h5 {
 
 <p align="left">
   
-- Additional Information -
-  - 🔗 The World Wide Web Consortium (W3C) [Official Website.](https://www.w3.org)
-   - 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
-   - 🔗 CSS Current [Work Page.](https://www.w3.org/Style/CSS/current-work)
-   - 🔗 CSS Official [Working Group.](https://www.w3.org/Style/CSS/members)
+*Additional Information -
+ *  🔗 The World Wide Web Consortium (W3C) [Official Website.](https://www.w3.org)
+ * 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
+ * 🔗 CSS Current [Work Page.](https://www.w3.org/Style/CSS/current-work)
+ * 🔗 CSS Official [Working Group.](https://www.w3.org/Style/CSS/members)
    
    
