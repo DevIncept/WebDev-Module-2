@@ -21,7 +21,6 @@ Cascading Style Sheet Control look and feel of Web Pages. We use it to style  HT
 
   
 * CSS Background -
- 
  * 👨‍💻 Developers- Håkon Wium Lie & Bert Bos. 
  * 📑 Published by	World Wide Web Consortium.[ (W3C) ](https://www.w3.org/TR/CSS2/) 
  * 📅 Initial release Date - 17	Dec. 1996.
@@ -32,7 +31,7 @@ Cascading Style Sheet Control look and feel of Web Pages. We use it to style  HT
 
 <P align="center" id="history"><b><i>Topic 1 : CSS Version History.</i><b></p>
   
-****
+***
   
 ✔️ ***CSS 1 -***
 
