@@ -29,7 +29,7 @@ Cascading Style Sheet Control look and feel of Web Pages. We use it to style  HT
 
 ***
 
-<P align="center" id="history"><b><i>Topic 1 : CSS Version History.</i><b></p>
+<P align="center" id="history"><b><i>Topic 1 : CSS Version History.</i></b></p>
   
 ***
   
