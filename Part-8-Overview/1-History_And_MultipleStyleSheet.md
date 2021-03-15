@@ -103,19 +103,18 @@ CSS 3 was published in June 1999. it's divided into several separate documents c
 
 ***
 
-<P align="center" id="multiple"><b><i>Topic 2 <u>Examples</u>: External Style Sheet using Multiple Style Sheets.</i><b></p>
+<p align="center" id="multiple"><b><i>Topic 2 <u>Examples</u>: External Style Sheet using Multiple Style Sheets.</i></b></p>
   
 ***
 
 
-✔️ External Style Sheet using Multiple Style Sheets - 
-
-- External CSS is linked to HTML document using `<link>`.
-- Used to style Complete HTML Document.
-- Multiple External Files contains all style of HTMl document. 
-- `.css` Extension is used for External CSS file. Any Text/Code editor can be used for write External CSS (ex. VS code, Brackets, Atom)
-- Used to Oraganize and style Large HTML document.(ex.Separate Style for Desktop and Mobile View of same Website)
-- Priority Depends on Last Declared Style Sheet.
+* ✔️ External Style Sheet using Multiple Style Sheets - 
+ * External CSS is linked to HTML document using `<link>`.
+ * Used to style Complete HTML Document.
+ * Multiple External Files contains all style of HTMl document. 
+ * `.css` Extension is used for External CSS file. Any Text/Code editor can be used for write External CSS (ex. VS code, Brackets, Atom)
+ * Used to Oraganize and style Large HTML document.(ex.Separate Style for Desktop and Mobile View of same Website)
+ * Priority Depends on Last Declared Style Sheet.
 
 
 📝 Multiple External CSS Files Example -
