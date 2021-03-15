@@ -2,7 +2,7 @@
  <p align="center">
 Cascading Style Sheet Control look and feel of Web Pages. We use it to style  HTML documents and to display its element more creatively. Basically it gives life to HTML Structure. 
 </p>
-</p>
+
 
 *** 
 <details>
