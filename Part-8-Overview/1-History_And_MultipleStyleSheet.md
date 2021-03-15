@@ -19,17 +19,14 @@ Cascading Style Sheet Control look and feel of Web Pages. We use it to style  HT
 <img align="right" height="175px" alt="GIF" src="https://media.giphy.com/media/UTRXtonjpNJraR8BhR/giphy.gif" />
 
 
-<p aligh="left">
   
-- CSS Background -
+* CSS Background -
  
-  - 👨‍💻 Developers- Håkon Wium Lie & Bert Bos. 
-  - 📑 Published by	World Wide Web Consortium.[ (W3C) ](https://www.w3.org/TR/CSS2/) 
-   - 📅 Initial release Date - 17	Dec. 1996.
-   - 🔗 The Official  [Definition](https://www.w3.org/TR/CSS/#css) by W3C.
+ * 👨‍💻 Developers- Håkon Wium Lie & Bert Bos. 
+ * 📑 Published by	World Wide Web Consortium.[ (W3C) ](https://www.w3.org/TR/CSS2/) 
+ * 📅 Initial release Date - 17	Dec. 1996.
+ * 🔗 The Official  [Definition](https://www.w3.org/TR/CSS/#css) by W3C.
    
-
-</p>
 
 ***
 
