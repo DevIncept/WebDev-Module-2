@@ -81,13 +81,13 @@ CSS 3 was published in June 1999. it's divided into several separate documents c
 <img align="right" height="175px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 
-<p aligh="left">
+
   
-- Additional Information -
-  - 🔗 The World Wide Web Consortium (W3C) [Official Website.](https://www.w3.org)
-   - 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
-   - 🔗 CSS Current [Work Page.](https://www.w3.org/Style/CSS/current-work)
-   - 🔗 CSS Official [Working Group.](https://www.w3.org/Style/CSS/members)
+* Additional Information -
+ * 🔗 The World Wide Web Consortium (W3C) [Official Website.](https://www.w3.org)
+ * 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
+ * 🔗 CSS Current [Work Page.](https://www.w3.org/Style/CSS/current-work)
+ * 🔗 CSS Official [Working Group.](https://www.w3.org/Style/CSS/members)
    
   
   
