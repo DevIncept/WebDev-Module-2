@@ -304,9 +304,8 @@ h5 {
 <img align="right" height="175px" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 
-<p align="left">
   
-*Additional Information -
+* Additional Information -
  *  🔗 The World Wide Web Consortium (W3C) [Official Website.](https://www.w3.org)
  * 🔗  CSS Official [Website.](https://www.w3.org/Style/CSS/)
  * 🔗 CSS Current [Work Page.](https://www.w3.org/Style/CSS/current-work)
